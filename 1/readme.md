@@ -12,7 +12,7 @@
   
   
 
-- [ ] [golangbyexample 获取ip](https://golangbyexample.com/golang-ip-address-http-request/)
+- [x] [golangbyexample 获取ip](https://golangbyexample.com/golang-ip-address-http-request/)
 
 - [ ] [参考获取ip](https://github.com/polaris1119/goutils/blob/master/ip.go)
 
